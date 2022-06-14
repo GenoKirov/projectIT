@@ -1,0 +1,50 @@
+body{
+        background-color: #00539CFF;
+        width: 1000px;
+        margin: auto;
+    }
+header{
+        background-color: #EEA47FFF;
+        height: 80px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        vertical-align: middle; 
+    }
+footer{
+        background-color: #EEA47FFF;
+        height: 60px;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+h1{
+        font-family: monospace;
+        font-size: 40px;
+        font-weight: bold;
+        color: #00539CFF;
+        margin-top: 20px;
+        text-align: center;
+    }
+h6{
+        font-family: monospace;
+        font-size: 20px;
+        font-weight: bold;
+        color: #00539CFF;
+        margin-top: 5px;
+        text-align: center;
+    
+}
+
+#portret{
+    
+    width: 350px;
+    height: 400px;
+}
+    
+
